@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Register Your Device</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="log_in">Log In</string>
+    <string name="chooser_title">Select the QR Code Scanner App</string>
+    <string name="scan">Scan My Device Sticker</string>
+
+</resources>
